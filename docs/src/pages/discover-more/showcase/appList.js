@@ -639,6 +639,15 @@ const appList = [
     similarWebVisits: 534,
     dateAdded: '2020-09-11',
   },
+  {
+    title: 'WalletCryptoRed',
+    description:
+      'WalletCryptoRed is an open source cryptocurrency hot wallet.',
+    image: 'walletcryptored.jpg',
+    link: 'https://wallet.crypto.red',
+    similarWebVisits: 36,
+    dateAdded: '2021-05-19',
+  },
 ];
 
 export default appList;
